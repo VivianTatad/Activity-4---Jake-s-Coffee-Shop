@@ -53,6 +53,10 @@ ul.navigation-ul > li {
   border: 1px solid #ccc; */
 }
 
+#content-column-second {
+  padding-left: 10px;
+}
+
 .content-div > .content-column:last-child {
   display: flex;
   justify-content: flex-end; /* Aligns content horizontally to the right */
@@ -67,16 +71,15 @@ img.coffee-picture {
 }
 
 .content-div > .content-column:first-child {
-  background-color: #e8d882
+  background-color: #e8d882;
 }
 
-.content-column
-{
-    background-color: #f1e8b0;
+.content-column {
+  background-color: #f1e8b0;
 }
 
-.footer-div{
-  background-color: #CCAA66;
+.footer-div {
+  background-color: #ccaa66;
   border-top-style: solid;
   height: 62px;
   text-align: center;
